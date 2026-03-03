@@ -1,7 +1,7 @@
 {
     "name": "Galaxy-Launcher",
     "productName": "Galaxy Launcher",
-    "version": "2.2.1",
+    "version": "1.0.0",
     "description": "Launcher para galacticos",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://24ba-179-62-55-124.ngrok-free.app",
+    "url": "https://acerb-jean-raspy.ngrok-free.dev/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
